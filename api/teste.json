@@ -1,0 +1,11 @@
+[
+  { "name": "Mussarela", "icon": "🧀" },
+  { "name": "Parmesão", "icon": "🧀" },
+  { "name": "Gouda", "icon": "🧀" },
+  { "name": "Brie", "icon": "🧀" }
+],
+
+[
+  { "product": "6372e3b82dd8f78cbe0af28a", "quantity": 2 },
+  { "product": "6372e3f72dd8f78cbe0af29f", "quantity": 9 },
+]
